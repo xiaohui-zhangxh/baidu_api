@@ -23,6 +23,7 @@ Or install it yourself as:
 This is a wrapper of all BaiduApi components:
 
 1. Geocoding API, see [BaiduApi::Geocoding](https://github.com/xiaohui-zhangxh/baidu_api-geocoding)
+1. LBS Cloud API, see [BaiduApi::LbsCloud](https://github.com/xiaohui-zhangxh/baidu_api-lbs_cloud)
 
 ## Contributing
 
